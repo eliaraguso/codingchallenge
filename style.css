@@ -1,0 +1,60 @@
+body{
+  background-image: url(background.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  font-family: 'Ubuntu', sans-serif;
+  }
+
+
+  .container{
+    width: 1200px;
+    margin: auto;
+    background-color: rgba(0, 0, 0, 0.4);
+    padding-right: 100px;
+    padding-bottom: 150px;
+    padding-left: 100px;
+    border-radius: 10px;
+  }
+
+.logo{
+  width: 215px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 100px;
+}
+
+.title{
+  text-align: center;
+  color: lime;
+}
+
+nav{
+  text-align: center;
+  background-color: lime;
+  height: 50px;
+  border-radius: 5px;
+  }
+
+nav > button{
+  margin-top: 15px;
+}
+
+main{
+  color: white;
+}
+
+.chargegino22{
+  background-color: orange;
+  border-radius: 3px;
+}
+
+.chargemike24{
+  background-color: lime;
+  border-radius: 3px;
+}
+
+.chargefede154{
+  background-color: red;
+  border-radius: 3px;
+}
